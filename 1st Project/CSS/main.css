@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: hsl(0, 100%, 74%);
+}
+
+#big{
+    margin: 10%;
+}
+
+#left{
+    float: left;
+    margin-top: 13%;
+    color: white;
+}
+
+#right{
+    float: right;
+    
+}
+
+#topic{
+    padding: 15px;
+    background-color: rgb(54, 54, 189);
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 10px;
+}
+
+#login{
+    height: 60vh;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1) ;
+    background-color: rgb(255, 255, 255);
+    width: 92%;
+    margin-right:10px ;
+    margin-top: 10px;
+    border-radius: 6px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+input{
+    padding: 13px;
+    width: 85%;
+    margin-bottom: 8px;
+    border-radius: 7px;
+    border: 0.1px solid;
+}
+
+
+#claimbtn{
+    width: 91%;
+    background-color: hsl(154, 59%, 51%);
+    color: white;
+}
+
+
+#ttxt{
+    font-size: small;
+    margin-left: 30px;
+    color: rgb(107, 107, 107);
+}
+
+a{
+    color:hsl(0, 100%, 74%) ;
+    text-decoration: none;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+p{
+    margin-bottom: 4px;
+}
